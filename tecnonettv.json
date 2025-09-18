@@ -2,387 +2,387 @@
   {
     "category": "TV EN VIVO",
     "id": "1",
+    "logo": "https://i.postimg.cc/wBbH0XKN/TELEMUNDO-ROMANCE.jpg",
+    "name": "TELEMUNDO ROMANCE",
+    "streamUrl": "https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "category": "TV EN VIVO",
+    "id": "2",
+    "logo": "https://i.postimg.cc/0Nr1Mz6y/TELEMUNDO-ACCION.png",
+    "name": "TELEMUNDO ACCION",
+    "streamUrl": "https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "category": "TV EN VIVO",
+    "id": "3",
+    "logo": "https://i.postimg.cc/nV7JQSYC/COSMOS-TV.jpg",
+    "name": "COSMOS TV",
+    "streamUrl": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"
+  },
+  {
+    "category": "TV EN VIVO",
+    "id": "4",
+    "logo": "https://i.postimg.cc/rFs3QdLd/TELESELVA.png",
+    "name": "TELESELVA",
+    "streamUrl": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?WebM3UCL"
+  },
+  {
+    "category": "TV EN VIVO",
+    "id": "5",
+    "logo": "https://i.postimg.cc/LXS8k0KG/ATRESPLAYER-MULTICINE.jpg",
+    "name": "MY TIME MOVIE NETWORK",
+    "streamUrl": "https://appletree-mytimespain-rakuten.amagi.tv/480p/index.m3u8"
+  },
+  {
+    "category": "TV EN VIVO",
+    "id": "6",
+    "logo": "https://i.postimg.cc/MGxC9kH0/LOVE-WINE.jpg",
+    "name": "LOVE WINE",
+    "streamUrl": "https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/480p/index.m3u8"
+  },
+  {
+    "category": "TV EN VIVO",
+    "id": "7",
+    "logo": "https://i.postimg.cc/hGVZ4ZMb/RUNTIME-ESPA-OL.jpg",
+    "name": "RUNTIME ESPAÑOL",
+    "streamUrl": "https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8"
+  },
+  {
+    "category": "TV EN VIVO",
+    "id": "8",
+    "logo": "https://i.postimg.cc/pTxGmQ6N/RUNTIME-ACCION.jpg",
+    "name": "RUNTIME ACCION",
+    "streamUrl": "https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8"
+  },
+  {
+    "category": "TV EN VIVO",
+    "id": "9",
+    "logo": "https://i.postimg.cc/RFRPK3kW/RUNTIME-COMEDIA.jpg",
+    "name": "RUNTIME COMEDIA",
+    "streamUrl": "https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8"
+  },
+  {
+    "category": "TV EN VIVO",
+    "id": "10",
+    "logo": "https://i.postimg.cc/kGYfY0X9/RUNTIME-THRILLER.jpg",
+    "name": "RUNTIME THRILLER",
+    "streamUrl": "https://run-th-es.otteravision.com/run/th_es/th_es.m3u8"
+  },
+  {
+    "category": "TV EN VIVO",
+    "id": "11",
+    "logo": "https://i.postimg.cc/DwXB5YVk/RUNTIME-CRIMEN.jpg",
+    "name": "RUNTIME CRIMEN",
+    "streamUrl": "https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8"
+  },
+  {
+    "category": "TV EN VIVO",
+    "id": "12",
+    "logo": "https://i.postimg.cc/wx42zdgY/RUNTIME-ROMANCE.jpg",
+    "name": "RUNTIME ROMANCE",
+    "streamUrl": "https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8"
+  },
+  {
+    "category": "TV EN VIVO",
+    "id": "13",
+    "logo": "https://i.postimg.cc/xdPGFwt7/RUNTIME-CLASSIC.jpg",
+    "name": "RUNTIME CLASSIC",
+    "streamUrl": "https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8"
+  },
+  {
+    "category": "TV EN VIVO",
+    "id": "14",
+    "logo": "https://i.postimg.cc/G3DHwNXt/SONY-NOVELAS.jpg",
+    "name": "SONY NOVELAS",
+    "streamUrl": "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8"
+  },
+  {
+    "category": "TV EN VIVO",
+    "id": "15",
     "logo": "https://i.postimg.cc/9XnrCGm1/CV-Vi-SION.jpg",
     "name": "CV ViSION",
     "streamUrl": "https://eu1.servers10.com:8081/8128/index.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "2",
-    "logo": "https://i.postimg.cc/J4CSyHs5/AVIVAMIENTO-TV.png",
-    "name": "AVIVAMIENTO TV",
-    "streamUrl": "https://vdopanel.jlahozconsulting.com:3655/live/avivamientolive.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "3",
-    "logo": "https://i.postimg.cc/pXNR8JHF/PLATINUM-TV.jpg",
-    "name": "PLATINIUM TV",
-    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/platiniumtv/chunks.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "4",
+    "id": "16",
     "logo": "https://i.postimg.cc/yY3WdkWK/CIELO-TV.jpg",
     "name": "CIELO TV",
     "streamUrl": "https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "5",
+    "id": "17",
     "logo": "https://i.postimg.cc/bwjYwgK0/LUZ-DIVINA-TV.jpg",
     "name": "LUZ DIVINA TV",
     "streamUrl": "https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "6",
+    "id": "18",
     "logo": "https://i.postimg.cc/wBngnkcs/TV-LUZ.jpg",
     "name": "TV LUZ",
     "streamUrl": "https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "7",
+    "id": "19",
     "logo": "https://i.postimg.cc/FzGgKJ2Z/TELE-RUMBA-TV.jpg",
     "name": "TELE RUMBA TV",
     "streamUrl": "https://inliveserver.com:1936/18506/18506/playlist.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "8",
-    "logo": "https://i.postimg.cc/mr8dY17S/COTUI-TV.png",
-    "name": "COTUI TV",
-    "streamUrl": "https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "9",
-    "logo": "https://i.postimg.cc/DZM5RRHm/MARCA-TV.png",
-    "name": "MARKA TV",
-    "streamUrl": "https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "10",
-    "logo": "https://i.postimg.cc/wj0rbW0w/PULA-TV.jpg",
-    "name": "PULA TV",
-    "streamUrl": "https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "11",
+    "id": "20",
     "logo": "https://i.postimg.cc/j5Jk2RK1/PUNTO-TV.png",
     "name": "PUNTO TV",
     "streamUrl": "https://vdo1.streamgato.us:3599/live/puntotvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "12",
+    "id": "21",
     "logo": "https://i.postimg.cc/YjcSh0H8/TELETUR.jpg",
     "name": "TELETUR",
     "streamUrl": "https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "13",
+    "id": "22",
     "logo": "https://i.postimg.cc/Rh7s1GWQ/VISION-NDV.jpg",
     "name": "VISION NDV",
     "streamUrl": "https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "14",
+    "id": "23",
     "logo": "https://i.postimg.cc/ZKmDYkQf/TVS.png",
     "name": "TVS",
     "streamUrl": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "15",
-    "logo": "https://i.postimg.cc/c4BDckLM/VISION-TV.jpg",
-    "name": "TV VISION",
-    "streamUrl": "https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "16",
-    "logo": "https://i.postimg.cc/Jz7yHpT7/TV-EXITOS.jpg",
-    "name": "TV EXITOS",
-    "streamUrl": "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "17",
-    "logo": "https://i.postimg.cc/PfCwk3Gd/MEGA-CINE-TV.png",
-    "name": "MEGA CINE TV",
-    "streamUrl": "https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "18",
-    "logo": "https://i.postimg.cc/mDxY6t17/ANI-RETRO.png",
-    "name": "TELEMICRO",
-    "streamUrl": "http://200.229.147.142:8000/play/a057/index.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "19",
+    "id": "24",
     "logo": "https://i.postimg.cc/qq36xL3H/BEBETO-TELEVISION-HD.jpg",
     "name": "BEBETO TELEVISION HD",
     "streamUrl": "https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "20",
+    "id": "25",
     "logo": "https://i.postimg.cc/Zq8GpxRj/DIGITAL809-TV.png",
     "name": "DIGITAL809TV",
     "streamUrl": "https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "21",
+    "id": "26",
     "logo": "https://i.postimg.cc/tJXyYwzP/AREA-809.png",
     "name": "AREA 809",
     "streamUrl": "https://vdo.voxhdnet.com:3159/stream/play.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "22",
+    "id": "27",
     "logo": "https://i.postimg.cc/9MBt5MTY/RUTA-66-TV.jpg",
     "name": "RUTA 66 TV",
     "streamUrl": "https://cnn.livestreaminggroup.info:3796/live/ruta66tvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "23",
+    "id": "28",
     "logo": "https://i.postimg.cc/fRNW4jqN/MANACLAR-TV.jpg",
     "name": "MANACLAR TV",
     "streamUrl": "https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "24",
+    "id": "29",
     "logo": "https://i.postimg.cc/J7HRGd98/CITRICO-TV.jpg",
     "name": "CITRICO TV",
     "streamUrl": "https://rdn.essastream.com:3996/live/citricotvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "25",
+    "id": "30",
     "logo": "https://i.postimg.cc/mgB4pZhZ/CAMU-TV.jpg",
     "name": "CAMU TV",
     "streamUrl": "https://server40.servistreaming.com:3477/stream/play.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "26",
-    "logo": "https://i.postimg.cc/wj2pCKsX/MI-PUEBLO-TV.png",
-    "name": "MI PUEBLO TV",
-    "streamUrl": "https://ds.tvabierta.net/memfs/e02e5624-6ff9-42b0-b500-68b22e5adc64_output_0.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "27",
-    "logo": "https://i.postimg.cc/Jz7yHpT7/TV-EXITOS.jpg",
-    "name": "TV EXITOS",
-    "streamUrl": "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "28",
+    "id": "31",
     "logo": "https://i.postimg.cc/Jz7yHpT7/TV-EXITOS.jpg",
     "name": "ALEGRE TV",
     "streamUrl": "https://streamunoapp.com:3149/live/alegretvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "29",
+    "id": "32",
     "logo": "https://i.postimg.cc/NfrSdHBc/CIBAE-A-TV.png",
-    "name": "CIBAE\u00d1A TV",
+    "name": "CIBAEÑA TV",
     "streamUrl": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "30",
+    "id": "33",
     "logo": "https://i.postimg.cc/nrGpP2Jr/CLARO-TV-DOMINICANA.png",
     "name": "CLARO TV DOMINICANA",
     "streamUrl": "https://streamunoapp.com:3960/live/claroteledomlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "31",
+    "id": "34",
     "logo": "https://i.postimg.cc/zGBcp9qd/TELERADIO-NORTE.jpg",
     "name": "TELERADIO NORTE",
     "streamUrl": "https://angelistic.live:3785/live/tvoficiallive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "32",
+    "id": "35",
     "logo": "https://i.postimg.cc/mDPfJrmz/VEGAVISION-CANAL-18.jpg",
     "name": "VEGAVISION CANAL 18",
     "streamUrl": "https://rdn.essastream.com:3400/live/canal18hdlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "33",
+    "id": "36",
     "logo": "https://i.postimg.cc/TP7vtbJv/TLSD.png",
     "name": "TLSD",
     "streamUrl": "https://vdopanel.jlahozconsulting.com/p/3668/live/santodomingolive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "34",
+    "id": "37",
     "logo": "https://i.postimg.cc/6qWkhwzN/LA-REYNA-TV.jpg",
     "name": "LA REYNA TV",
     "streamUrl": "https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "35",
+    "id": "38",
     "logo": "https://i.postimg.cc/pXjLGr1x/ANTENA-LATINA.png",
     "name": "ANTENA LATINA",
     "streamUrl": "https://alba-do-antena7-antena7.stream.mediatiquestream.com/original.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "36",
+    "id": "39",
     "logo": "https://i.postimg.cc/5ts4YCj5/RTVD.jpg",
     "name": "RTVD 4-R.D",
     "streamUrl": "https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?DVR"
   },
   {
     "category": "TV EN VIVO",
-    "id": "37",
+    "id": "40",
     "logo": "https://i.postimg.cc/k55sj1Z4/LA-FE-MUEVE-MONTA-AS-TV.jpg",
-    "name": "LA FE MUEVE MONTA\u00d1A TV",
+    "name": "LA FE MUEVE MONTAÑA TV",
     "streamUrl": "https://inliveserver.com:1936/10020/10020/playlist.m3u8?DVR"
   },
   {
     "category": "TV EN VIVO",
-    "id": "38",
+    "id": "41",
     "logo": "https://i.postimg.cc/cCQ1Vcjg/EL-VIVIENTE-TV.jpg",
     "name": "EL VIVIENTE TV",
     "streamUrl": "https://host.streamingnation.live/p/3968/live/elvivientetvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "39",
-    "logo": "https://i.postimg.cc/kXvXsfKL/IDEAL-TV.png",
-    "name": "IDEAL TV",
-    "streamUrl": "https://cloud5.idealtv.net/hls/live.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "40",
+    "id": "42",
     "logo": "https://i.postimg.cc/NMLg1jr3/ANTENA-21.png",
     "name": "ANTENA 21",
     "streamUrl": "https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "41",
+    "id": "43",
     "logo": "https://i.postimg.cc/c1bvkVx7/CANAL-DEL-SOL.png",
     "name": "CANAL DEL SOL",
     "streamUrl": "https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "42",
+    "id": "44",
     "logo": "https://i.postimg.cc/Pxs1FJmw/HERMANAS-MIRABAL-TV.png",
     "name": "HERMANAS MIRABAL TV",
     "streamUrl": "https://cnn.essastream.com:3091/live/hmtvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "43",
+    "id": "45",
     "logo": "https://i.postimg.cc/1zFxPVw5/RNN-NOTICIAS.jpg",
     "name": "RNN-NOTICIAS",
     "streamUrl": "https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/playlist.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "44",
+    "id": "46",
     "logo": "https://i.postimg.cc/YC25YQYc/RDN-TV.jpg",
     "name": "RDN TV",
     "streamUrl": "https://vdo2.streamgato.us:3278/live/rdntvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "45",
+    "id": "47",
     "logo": "https://i.postimg.cc/Kjk8y8GP/NOTICIAS-16.png",
     "name": "NOTICIAS 16",
     "streamUrl": "https://cdn.essastream.com:3457/live/noticiasn16live.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "46",
-    "logo": "https://i.postimg.cc/zBYsfDFw/TELEUNIVERSO.png",
-    "name": "TELEUNIVERSO",
-    "streamUrl": "https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "47",
+    "id": "48",
     "logo": "https://i.postimg.cc/hGDZjCJj/NARANJA-TV.jpg",
     "name": "NARANJA TV",
     "streamUrl": "https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8?DVD"
   },
   {
     "category": "TV EN VIVO",
-    "id": "48",
+    "id": "49",
     "logo": "https://i.postimg.cc/SNxSB8JC/TELENOVISA-43.png",
     "name": "TELENOVISA 43",
     "streamUrl": "https://rdn.essastream.com:3230/live/telenovisa43live.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "49",
+    "id": "50",
     "logo": "https://i.postimg.cc/BvJ3GTgZ/TV-DAJA.jpg",
     "name": "TV DAJA",
     "streamUrl": "https://rdn.essastream.com:3388/live/dajatvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "50",
+    "id": "51",
     "logo": "https://i.postimg.cc/3JQyz0Vh/SANTIAGO-TV.png",
     "name": "SANTIAGO TV",
     "streamUrl": "https://vdo1.streamgato.us:3677/live/telemileniolive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "51",
+    "id": "52",
     "logo": "https://i.postimg.cc/WbdsGR20/CANAL-DTV.jpg",
     "name": "CANAL DTV",
     "streamUrl": "https://s.emisoras.tv:8081/dtv/index.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "52",
+    "id": "53",
     "logo": "https://i.postimg.cc/d3pPH1qr/CROM-TV.png",
     "name": "CROM TV",
     "streamUrl": "https://cnn.essastream.com:3333/live/cromtvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "53",
+    "id": "54",
     "logo": "https://i.postimg.cc/QMp2n0xB/TS-TELESIGLO.png",
     "name": "TS TELESIGLO",
     "streamUrl": "https://vdo2.streamgato.us:3562/live/dantvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "54",
+    "id": "55",
     "logo": "https://i.postimg.cc/fybfmTrz/EL-PUERTO-TV.png",
     "name": "EL PUERTO TV",
     "streamUrl": "https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "55",
-    "logo": "https://i.postimg.cc/fW26cLz4/MONTE-CRISTI-DIGITAL.jpg",
-    "name": "MONTE CRISTI DIGITAL",
-    "streamUrl": "https://soportedvb.click:3400/live/montecristitvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
@@ -415,729 +415,589 @@
   {
     "category": "TV EN VIVO",
     "id": "60",
-    "logo": "https://i.postimg.cc/PrbPfNby/TELEVER-JARABACOA.jpg",
-    "name": "TELEVER-JARABACOA",
-    "streamUrl": "https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "61",
     "logo": "https://i.postimg.cc/Gmc94rqC/CATORCE-TV.jpg",
     "name": "CATORCE TV",
     "streamUrl": "https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "62",
+    "id": "61",
     "logo": "https://i.postimg.cc/nLrz1kyS/CINEVISION-CANAL-19.jpg",
     "name": "CINEVISION",
     "streamUrl": "https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "63",
+    "id": "62",
     "logo": "https://i.postimg.cc/SKPK19qS/NEXXO-TV.png",
     "name": "NEXXO TV",
     "streamUrl": "https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "64",
+    "id": "63",
     "logo": "https://i.postimg.cc/ydS8MNYF/TELEDIGITAL-CANAL-56.jpg",
     "name": "TELEDIGITAL-CANAL56",
     "streamUrl": "https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "65",
+    "id": "64",
     "logo": "https://i.postimg.cc/7YZphW0R/EN-TELEVISION.png",
     "name": "EN TELEVISION",
     "streamUrl": "https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "66",
+    "id": "65",
     "logo": "https://i.postimg.cc/ZnRVbX2F/HILANDO-FINO-TV.jpg",
     "name": "HILANDO FINO TV",
     "streamUrl": "https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "67",
+    "id": "66",
     "logo": "https://i.postimg.cc/nVR3Rc9d/AHORA-TV-35.jpg",
     "name": "AHORA TV 35",
     "streamUrl": "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "68",
-    "logo": "https://i.postimg.cc/JzbcL1tC/CDN-37.png",
-    "name": "CDN 37",
-    "streamUrl": "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/7ed9a111-1110-47df-3bd8-85a9e0a15e3c.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "69",
+    "id": "67",
     "logo": "https://i.postimg.cc/q7wsNj8m/TVO-LA-ROMANA.jpg",
     "name": "TVO-LA ROMANA",
     "streamUrl": "https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "70",
+    "id": "68",
     "logo": "https://i.postimg.cc/5Nz8BxBQ/LUNA-TV.jpg",
     "name": "LUNA TV",
     "streamUrl": "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "71",
+    "id": "69",
     "logo": "https://i.postimg.cc/qRg3z0BR/DE-ULTIMO-MINUTO-TV.jpg",
     "name": "DE ULTIMO MINUTO TV",
     "streamUrl": "https://soportedvb.click:3620/live/deultimominutomedialive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "72",
+    "id": "70",
     "logo": "https://i.postimg.cc/L4wWTBWC/ALTANTO-TV.jpg",
     "name": "ALTANTO TV",
     "streamUrl": "https://streaming.altantotv.domiplay.net/hls/0/stream.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "73",
+    "id": "71",
     "logo": "https://i.postimg.cc/C1D8V0Ff/HAINA-VISION-CANAL-6.jpg",
     "name": "HAINA VISION-CANAL 6",
     "streamUrl": "https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "74",
+    "id": "72",
     "logo": "https://i.postimg.cc/XJpbZNZp/BELLAVISION.png",
     "name": "BELLAVISION",
     "streamUrl": "https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "75",
+    "id": "73",
     "logo": "https://i.postimg.cc/gkvnc4F1/COCO-TV.jpg",
     "name": "COCO TV",
     "streamUrl": "https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "76",
+    "id": "74",
     "logo": "https://i.postimg.cc/66DkpFDc/TELENORD-CANAL-08.png",
     "name": "TELENORD-CANAL 8",
     "streamUrl": "https://rdn.essastream.com:3170/live/telenord8live.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "77",
+    "id": "75",
     "logo": "https://i.postimg.cc/FzYCg7mJ/TELENORD.jpg",
     "name": "TELENORD CANAL 10",
     "streamUrl": "https://rdn.essastream.com:3676/live/telenord10live.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "78",
+    "id": "76",
     "logo": "https://i.postimg.cc/MpwgyVZj/TELENORD-CANAL-12.png",
     "name": "TELENORD-CANAL 12",
     "streamUrl": "https://vdo1.streamgato.us:3345/live/telenord12live.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "79",
-    "logo": "https://i.postimg.cc/qRhZ2Np6/BAJO-TECHO-TV.png",
-    "name": "BAJO TECHO TV",
-    "streamUrl": "https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "80",
+    "id": "77",
     "logo": "https://i.postimg.cc/mk3jSMJk/VALLEVISION.jpg",
     "name": "VALLEVISION",
     "streamUrl": "https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "81",
+    "id": "78",
     "logo": "https://i.postimg.cc/L88DzJT4/READY-HD.png",
     "name": "READY HD",
     "streamUrl": "https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "82",
+    "id": "79",
     "logo": "https://i.postimg.cc/Y2NzZ6Dq/BOREAL-TELEVISION.png",
     "name": "BOREAL TELEVISION HD",
     "streamUrl": "https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "83",
+    "id": "80",
     "logo": "https://i.postimg.cc/nccBW6Q0/TELEMAXRD.jpg",
     "name": "TELEMAXRD",
     "streamUrl": "https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "84",
+    "id": "81",
     "logo": "https://i.postimg.cc/MHZMhQXv/FUEGO-TV.jpg",
     "name": "FUEGO TV",
     "streamUrl": "https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "85",
+    "id": "82",
     "logo": "https://i.postimg.cc/gkJLs8f7/COLIMDO-TV.jpg",
     "name": "COLIMDO TV",
     "streamUrl": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "86",
+    "id": "83",
     "logo": "https://i.postimg.cc/KYn1jNM1/TELEIMPACTO.png",
     "name": "TELE IMPACTO",
     "streamUrl": "https://vpss2003.streamprolive.com/hls/live.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "87",
+    "id": "84",
     "logo": "https://i.postimg.cc/3NbRVfPc/TELECONTACTO-57.jpg",
     "name": "TELECONTACTO 57",
     "streamUrl": "https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "88",
+    "id": "85",
     "logo": "https://i.postimg.cc/sgPzZ0TC/VEGATEVE.png",
     "name": "VEGA TV",
     "streamUrl": "https://cloud6.livescast.com:3797/live/vegatevelive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "89",
+    "id": "86",
     "logo": "https://i.postimg.cc/2jP3QM71/VTV-32.jpg",
     "name": "VTV 32",
     "streamUrl": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "90",
+    "id": "87",
     "logo": "https://i.postimg.cc/MZdwZszr/TELECANAL-12.jpg",
     "name": "TELECANAL 12",
     "streamUrl": "https://rdn.essastream.com:3258/live/telecanal12live.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "91",
+    "id": "88",
     "logo": "https://i.postimg.cc/KYLZKyrh/TELE-DOMINICANA.png",
     "name": "TELE DOMINICANA",
     "streamUrl": "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "92",
+    "id": "89",
     "logo": "https://i.postimg.cc/BnTYtYLw/MAKINA-VISION.jpg",
     "name": "MAKINA VISION",
     "streamUrl": "https://vdopanel.jlahozconsulting.com/p/3303/live/makinalive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "93",
+    "id": "90",
     "logo": "https://i.postimg.cc/RZqS1rxL/AGENDA-56.png",
     "name": "AGENDA 56",
     "streamUrl": "https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "94",
+    "id": "91",
     "logo": "https://i.postimg.cc/j56tqtyt/ION-TV.jpg",
     "name": "AION TV",
     "streamUrl": "https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "95",
+    "id": "92",
     "logo": "https://i.postimg.cc/26xNRTf5/CANALDA-TV.jpg",
     "name": "CANALDA TV",
     "streamUrl": "https://canalda.rgradio.net:3084/live/canaldalive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "96",
+    "id": "93",
     "logo": "https://i.postimg.cc/WbCKyxJn/CENOVISION-TV.jpg",
     "name": "CENOVISION TV",
     "streamUrl": "https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "97",
+    "id": "94",
     "logo": "https://i.postimg.cc/fLPjLQsq/ECOVISION-TV.png",
     "name": "ECOVISION TV",
     "streamUrl": "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "98",
+    "id": "95",
     "logo": "https://i.postimg.cc/zvJb8db2/EDU-MAS-TV.jpg",
     "name": "EDU MAS TV",
     "streamUrl": "https://vdopanel.jlahozconsulting.com:3720/hybrid/play.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "99",
+    "id": "96",
     "logo": "https://i.postimg.cc/PrCfYsjz/GH-TELEVISION.jpg",
     "name": "GH TELEVISION",
     "streamUrl": "https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "100",
+    "id": "97",
     "logo": "https://i.postimg.cc/T3mRNVhK/IMAGEN-UNIVERSAL-TV.png",
     "name": "IMAGEN UNIVERSAL TV",
     "streamUrl": "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "101",
+    "id": "98",
     "logo": "https://i.postimg.cc/k4Mq5LsS/JIMANI-TV.jpg",
     "name": "JIMANI TV",
     "streamUrl": "https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "102",
+    "id": "99",
     "logo": "https://i.postimg.cc/8c9StcSd/LA-CALETA-TV.jpg",
     "name": "LA CALETA TV",
     "streamUrl": "https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "103",
+    "id": "100",
     "logo": "https://i.postimg.cc/SQ3b0nBC/LA-RUTA-TV.jpg",
     "name": "LA RUTA TV",
     "streamUrl": "https://streamunoapp.com:3983/live/larutatvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "104",
+    "id": "101",
     "logo": "https://i.postimg.cc/w38r1mzr/MAKAO-TV.png",
     "name": "MAKAO TV",
     "streamUrl": "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8"
   },
   {
-    "category": "ANIME-INFANTIL",
-    "id": "105",
-    "logo": "https://i.postimg.cc/1RNmSDPN/CHINOLA-TV.png",
-    "name": "CHINOLA TV",
-    "streamUrl": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
-  },
-  {
     "category": "TV EN VIVO",
-    "id": "106",
-    "logo": "https://i.postimg.cc/1zd1948k/PITUCO-TV.png",
-    "name": "PITUCO TV",
-    "streamUrl": "https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "107",
+    "id": "102",
     "logo": "https://i.postimg.cc/fyn49Fj5/PUNTA-CANA-TV.jpg",
     "name": "PUNTA CANA TV",
     "streamUrl": "https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "108",
+    "id": "103",
     "logo": "https://i.postimg.cc/50zTbgdz/SAN-ISIDRO-TV.jpg",
     "name": "SAN ISIDRO TV",
     "streamUrl": "https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "109",
+    "id": "104",
     "logo": "https://i.postimg.cc/YCSPhMBM/SIMA-VISION-TV.png",
     "name": "SIMA VISION TV",
     "streamUrl": "https://soportedvb.click:3668/live/simavisiontvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "110",
+    "id": "105",
     "logo": "https://i.postimg.cc/R06bLd0Y/SU-MUNDO-TV.jpg",
     "name": "SU MUNDO TV",
     "streamUrl": "https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/tracks-v2a1/mono.ts.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "111",
-    "logo": "https://i.postimg.cc/4yZLZT1C/TELE-UNIVERSAL.png",
-    "name": "TELE UNIVERSAL",
-    "streamUrl": "https://vdo2.streamgato.us:3466/live/teleuniversaldclive.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "112",
+    "id": "106",
     "logo": "https://i.postimg.cc/sf9HmvV3/TELECANAL-28.jpg",
     "name": "TELECANAL 28",
     "streamUrl": "https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "113",
+    "id": "107",
     "logo": "https://i.postimg.cc/25Z2Z5cR/TELECIBAO.jpg",
     "name": "TELECIBAO",
     "streamUrl": "https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "114",
-    "logo": "https://i.postimg.cc/mDWVNGJc/TELETURISMO.png",
-    "name": "TELETURISMO",
-    "streamUrl": "https://stream.gia.tv/giatvplayout7/giatv-208343/tracks-v1a1/mono.ts.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "115",
+    "id": "108",
     "logo": "https://i.postimg.cc/BndC40qh/XTRA-TV.png",
     "name": "XTRA TV",
     "streamUrl": "https://cnn.essastream.com:3387/live/xtratvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "116",
+    "id": "109",
     "logo": "https://i.postimg.cc/nLrz1kyS/CINEVISION-CANAL-19.jpg",
     "name": "GALAXIA TEVE",
     "streamUrl": "https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "117",
-    "logo": "https://i.postimg.cc/cCK1qZj0/MEGAVISION-TV.png",
-    "name": "MEGAVISION 43",
-    "streamUrl": "https://66b3a8363297d.streamlock.net/megavision/MV/playlist.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "118",
+    "id": "110",
     "logo": "https://i.postimg.cc/g2KxHcbT/MUSAVISION.jpg",
     "name": "MUSAVICION",
     "streamUrl": "https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "119",
+    "id": "111",
     "logo": "https://i.postimg.cc/Pq3N06xb/DELTA-TV.png",
     "name": "DELTA TV",
     "streamUrl": "https://rdn.essastream.com:3949/live/deltatv50live.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "120",
-    "logo": "https://i.postimg.cc/QtvCdHcH/SUPER-7-FM.png",
-    "name": "SUPER 7 FM",
-    "streamUrl": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "121",
+    "id": "112",
     "logo": "https://i.postimg.cc/3wRxjgBk/HIGUEY-DIGITAL.jpg",
     "name": "HIGUEY DIGITAL",
     "streamUrl": "https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "122",
+    "id": "113",
     "logo": "https://i.postimg.cc/CKQLczPm/COTUBANAMA-DIGITAL.jpg",
     "name": "COTUBANAMA DIGITAL",
     "streamUrl": "https://host.streamingnation.live/p/3588/hybrid/play.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "123",
-    "logo": "https://i.postimg.cc/JnH7vMSm/NITIDA-TV.jpg",
-    "name": "NITIDA TV",
-    "streamUrl": "https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8?"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "124",
-    "logo": "https://i.postimg.cc/90GmX1Wn/FAROVISION.jpg",
-    "name": "FAROVISION 22",
-    "streamUrl": "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "125",
+    "id": "114",
     "logo": "https://i.postimg.cc/8zy1C7SN/CANAL-HTV-LIVE.png",
     "name": "CANAL HTV LIVE",
     "streamUrl": "https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "126",
+    "id": "115",
     "logo": "https://i.postimg.cc/d0pw8g3f/SRC-MEDIA-TV.jpg",
     "name": "SRC MEDIA TV",
     "streamUrl": "https://video.misistemareseller.com:1936/srctv/srctv/playlist.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "127",
+    "id": "116",
     "logo": "https://i.postimg.cc/Y9Fk88mC/ZONA-VISION-TV.png",
     "name": "ZONA VISION TV",
     "streamUrl": "https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "128",
-    "logo": "https://i.postimg.cc/wMdzrJhc/VALLE-NUEVO-TV.jpg",
-    "name": "VALLE NUEVO TV",
-    "streamUrl": "https://media.streambrothers.com:19360/8262/8262.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "129",
+    "id": "117",
     "logo": "https://i.postimg.cc/VLgw7J5n/HITS-360-FM.png",
     "name": "HITS 360 FM",
     "streamUrl": "https://cdn.essastream.com:3023/live/hits360tvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "130",
+    "id": "118",
     "logo": "https://i.postimg.cc/pL1HH3fd/SALVACION-TV.png",
     "name": "SALVACION TV",
     "streamUrl": "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "131",
-    "logo": "https://i.postimg.cc/tgw9LSJd/PITUFO-TV.png",
-    "name": "PITUFO TV",
-    "streamUrl": "https://jmp2.uk/sam-ESBD130000205.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "132",
-    "logo": "https://i.postimg.cc/hPcKW7DY/CAILLOW.jpg",
-    "name": "CAILLOW",
-    "streamUrl": "https://jmp2.uk/sam-ES4800002OZ.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "133",
-    "logo": "https://i.postimg.cc/5thMPXKn/LA-AVEJA-MAYA.jpg",
-    "name": "LA AVEJA MAYA",
-    "streamUrl": "https://jmp2.uk/sam-ESBD3200002V5.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "134",
-    "logo": "https://i.postimg.cc/RVDp1jDT/RABBITS-LA-INVASION.jpg",
-    "name": "RABBITS-LA INVASION",
-    "streamUrl": "https://jmp2.uk/sam-ESBD2300003S5.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "135",
-    "logo": "https://i.postimg.cc/1RNmSDPN/CHINOLA-TV.png",
-    "name": "CHINOLA TV",
-    "streamUrl": "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "136",
-    "logo": "https://i.postimg.cc/zD41mB9C/BOING.png",
-    "name": "BOING",
-    "streamUrl": "http://185.189.225.150:85/boing/index.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "137",
-    "logo": "https://i.postimg.cc/Pr1DqQYN/DUCK-TV.jpg",
-    "name": "DUCK TV",
-    "streamUrl": "https://jmp2.uk/sam-ESBC4700001GR.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "138",
+    "id": "119",
     "logo": "https://i.postimg.cc/HLp9r15C/BABYFIRST.jpg",
     "name": "BABYFIRST",
     "streamUrl": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "139",
-    "logo": "https://i.postimg.cc/MTr1pDM2/ANIME-VISION.jpg",
-    "name": "ANIME VISION",
-    "streamUrl": "https://jmp2.uk/sam-ES300029LP.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "140",
-    "logo": "https://i.postimg.cc/MTr1pDM2/ANIME-VISION.jpg",
-    "name": "ANIME VISION CLASSIC",
-    "streamUrl": "https://jmp2.uk/sam-ES3000288I.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "141",
+    "id": "120",
     "logo": "https://i.postimg.cc/1X5VB1Cw/CINE-SONY.png",
     "name": "CINE SONY",
     "streamUrl": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "142",
+    "id": "121",
     "logo": "https://i.postimg.cc/mgqvGcmw/RETROXTV.png",
     "name": "RETROXTV",
     "streamUrl": "https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "143",
-    "logo": "https://i.postimg.cc/D07ykYGk/ALCARRIZOS-TV.jpg",
-    "name": "ALCARRIZOS TV",
-    "streamUrl": "https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "144",
+    "id": "122",
     "logo": "https://i.postimg.cc/TYLSqJWt/GRJNGO-PELIS-DEL-OESTE.jpg",
     "name": "GRJNGO-PELIS DEL OESTE",
     "streamUrl": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/4300.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "145",
+    "id": "123",
     "logo": "https://i.postimg.cc/Jz9BHMCT/AURORA-MEDIA-FILMS.jpg",
     "name": "AURORA MEDIA FILMS",
     "streamUrl": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "146",
+    "id": "124",
     "logo": "https://i.postimg.cc/PfCwk3Gd/MEGA-CINE-TV.png",
     "name": "MEGA CINE TV",
     "streamUrl": "https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "147",
-    "logo": "https://i.postimg.cc/bvDWL0My/TELERITMO.jpg",
-    "name": "TELERITMO SD",
-    "streamUrl": "http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "148",
-    "logo": "https://i.postimg.cc/wBCPry8h/RETRO-MUSIC-HD.jpg",
-    "name": "RETRO MUSIC HD",
-    "streamUrl": "http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "149",
-    "logo": "https://i.postimg.cc/LXFCTcLD/MTV-CLIPES-1.jpg",
-    "name": "MTV CLIPES 1",
-    "streamUrl": "http://rtmp.one.by:1200"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "150",
+    "id": "125",
     "logo": "https://i.postimg.cc/Bb4HW2GF/PJ-DIGITAL.png",
     "name": "PJ DIGITAL",
     "streamUrl": "https://vdo1.panelstreaming.live:3363/hybrid/play.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "151",
-    "logo": "https://i.postimg.cc/jSmfxpbt/CHAMAM-TV.png",
-    "name": "CHAMAM\u00c9 TV",
-    "streamUrl": "https://srv2.zcast.com.br/chamame/chamame/playlist.m3u8"
-  },
-  {
-    "category": "TV EN VIVO",
-    "id": "152",
+    "id": "126",
     "logo": "https://i.postimg.cc/vmnVc0Y9/XTREMA-MUSIC.jpg",
     "name": "XTREMA MUSIC",
     "streamUrl": "https://627bb251f23c7.streamlock.net:444/MetaldelCielo/MetaldelCielo/playlist.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "153",
+    "id": "127",
     "logo": "https://i.postimg.cc/QNS2WfwR/VISION-TV EN VIVO.jpg",
     "name": "VISION TV EN VIVO",
     "streamUrl": "https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8"
   },
   {
     "category": "TV EN VIVO",
-    "id": "154",
+    "id": "128",
     "logo": "https://i.postimg.cc/XY4qXxPG/MEGA.png",
     "name": "MEGA",
     "streamUrl": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8"
   },
   {
     "category": "ADULTOS XXX",
-    "id": "155",
-    "logo": "https://i.imgur.com/QFo6Ptm.png",
-    "name": "AdultIPTV.net Anal (720p)",
+    "id": "129",
+    "logo": "https://i.postimg.cc/gJPc5y1b/ADULTOS.png",
+    "name": "ADULTOS CANAL 1",
     "streamUrl": "https://cdn.adultiptv.net/anal.m3u8"
   },
   {
     "category": "ADULTOS XXX",
-    "id": "156",
-    "logo": "https://i.imgur.com/mBJyTOp.png",
-    "name": "AdultIPTV.net Asian (720p)",
+    "id": "130",
+    "logo": "https://i.postimg.cc/gJPc5y1b/ADULTOS.png",
+    "name": "ADULTOS CANAL 2",
     "streamUrl": "https://cdn.adultiptv.net/asian.m3u8"
   },
   {
     "category": "ADULTOS XXX",
-    "id": "157",
-    "logo": "https://i.imgur.com/3eUIaHx.png",
-    "name": "AdultIPTV.net Big Ass (720p)",
+    "id": "131",
+    "logo": "https://i.postimg.cc/gJPc5y1b/ADULTOS.png",
+    "name": "ADULTOS CANAL3",
     "streamUrl": "https://cdn.adultiptv.net/bigass.m3u8"
   },
   {
     "category": "ADULTOS XXX",
-    "id": "158",
-    "logo": "https://i.imgur.com/3eUIaHx.png",
-    "name": "AdultIPTV.net Big Dick (720p)",
+    "id": "132",
+    "logo": "https://i.postimg.cc/gJPc5y1b/ADULTOS.png",
+    "name": "ADULTOS CANAL 4",
     "streamUrl": "https://cdn.adultiptv.net/bigdick.m3u8"
   },
   {
     "category": "ADULTOS XXX",
-    "id": "159",
-    "logo": "https://i.imgur.com/3eUIaHx.png",
-    "name": "AdultIPTV.net Big Tits (720p)",
+    "id": "133",
+    "logo": "https://i.postimg.cc/gJPc5y1b/ADULTOS.png",
+    "name": "ADULTOS CANAL 5",
     "streamUrl": "https://cdn.adultiptv.net/bigtits.m3u8"
   },
   {
     "category": "ADULTOS XXX",
-    "id": "160",
-    "logo": "https://i.imgur.com/3eUIaHx.png",
-    "name": "AdultIPTV.net Brunette (720p)",
+    "id": "134",
+    "logo": "https://i.postimg.cc/gJPc5y1b/ADULTOS.png",
+    "name": "ADULTOS CANAL 6",
     "streamUrl": "https://cdn.adultiptv.net/brunette.m3u8"
   },
   {
     "category": "ADULTOS XXX",
-    "id": "161",
-    "logo": "https://i.imgur.com/3eUIaHx.png",
-    "name": "AdultIPTV.net Gay (720p)",
+    "id": "135",
+    "logo": "https://i.postimg.cc/gJPc5y1b/ADULTOS.png",
+    "name": "ADULTOS CANAL 7",
     "streamUrl": "https://cdn.adultiptv.net/gay.m3u8"
   },
   {
     "category": "ADULTOS XXX",
-    "id": "162",
-    "logo": "https://i.imgur.com/3eUIaHx.png",
-    "name": "AdultIPTV.net Interracial (720p)",
+    "id": "136",
+    "logo": "https://i.postimg.cc/gJPc5y1b/ADULTOS.png",
+    "name": "ADULTOS CANAL 8",
     "streamUrl": "https://cdn.adultiptv.net/interracial.m3u8"
   },
   {
     "category": "ADULTOS XXX",
-    "id": "163",
-    "logo": "https://i.imgur.com/3eUIaHx.png",
-    "name": "AdultIPTV.net Latina (720p)",
+    "id": "137",
+    "logo": "https://i.postimg.cc/gJPc5y1b/ADULTOS.png",
+    "name": "ADULTOS CANAL 9",
     "streamUrl": "https://cdn.adultiptv.net/latina.m3u8"
+  },
+  {
+    "category": "ADULTOS XXX",
+    "id": "138",
+    "logo": "https://i.postimg.cc/gJPc5y1b/ADULTOS.png",
+    "name": "ADULTOS CANAL 10",
+    "streamUrl": "https://cdn.adultiptv.net/rough.m3u8"
+  },
+  {
+    "category": "ADULTOS XXX",
+    "id": "139",
+    "logo": "https://i.postimg.cc/gJPc5y1b/ADULTOS.png",
+    "name": "ADULTOS CANAL 11",
+    "streamUrl": "https://cdn.adultiptv.net/russian.m3u8"
+  },
+  {
+    "category": "ADULTOS XXX",
+    "id": "140",
+    "logo": "https://i.postimg.cc/gJPc5y1b/ADULTOS.png",
+    "name": "ADULTOS CANAL 12",
+    "streamUrl": "https://cdn.adultiptv.net/teen.m3u8"
+  },
+  {
+    "category": "ADULTOS XXX",
+    "id": "141",
+    "logo": "https://i.postimg.cc/gJPc5y1b/ADULTOS.png",
+    "name": "ADULTOS CANAL 13",
+    "streamUrl": "https://cdn.adultiptv.net/threesome.m3u8"
+  },
+  {
+    "category": "ADULTOS XXX",
+    "id": "142",
+    "logo": "https://i.postimg.cc/gJPc5y1b/ADULTOS.png",
+    "name": "ADULTOS CANAL 14",
+    "streamUrl": "https://live.redtraffic.net/woman.m3u8"
+  },
+  {
+    "category": "ADULTOS XXX",
+    "id": "143",
+    "logo": "https://i.postimg.cc/gJPc5y1b/ADULTOS.png",
+    "name": "ADULTOS CANAL 15",
+    "streamUrl": "https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8"
   }
 ]
